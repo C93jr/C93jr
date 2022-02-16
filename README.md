@@ -6,7 +6,7 @@ Migrando de área, e me aperfeiçoando cada dia mais na área de dados, pretendo
 
 Tenho sólida habilidade de visão multidisciplinar, de análise crítica e técnica na interpretação de cenários e identificação de gaps, focando sempre na adequação as necessidades do cliente e otimização de estratégias de negócios.
 
-Possuo familiaridade com rotinas de Data Science, processos de ETL, Business Intelligence e design/UX de dashboards envolvendo ferramentas e frameworks diversos como Python, SQL, Power BI.
+Possuo familiaridade com rotinas de Data Science, processos de ETL, Business Intelligence e design/UX de dashboards envolvendo ferramentas e frameworks diversos.
 
 Porém meu coração não bate apenas por números e códigos, pois tenho boas habilidades de relacionamento interpessoal, sempre atuando como facilitador no atendimento a clientes e no suporte a projetos ligados à área de Diversidade e Inclusão.
 
